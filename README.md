@@ -1,6 +1,6 @@
 ##Introduction_to_The_Scrappy_Project
 
-My_favurite_gif
+My_favorite_gif
 
 
 ![giphy](https://github.com/pupu-01/New_scrppy/assets/165286053/5f9665be-57ef-4f31-ae0a-3a1aea02d0cb)
